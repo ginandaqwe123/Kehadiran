@@ -77,7 +77,7 @@ if (isset($_POST['submit'])) {
 <table class="table table-bordered">
   <thead class="thead-dark">
     <tr>
-      <th scope="col">Nis</th>
+      <th scope="col">Nomor Induk Siswa</th>
       <th scope="col">Nama</th>
       <th scope="col">Tanggal</th>
       <th scope="col">Hari</th>
